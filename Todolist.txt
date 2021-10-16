@@ -1,0 +1,6 @@
+1. Recent Project should showcase all projects
+2. Insert the omlette picture into the recent projects without duplicating
+3. Change the diamond next to my name on the browser heading 
+4. Get a higher quality profile picture of me cropped correctly
+5. Get a rough understanding of how this website works and why react was necessary
+6. Think about cool features to add or changes to make
